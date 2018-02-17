@@ -51,7 +51,7 @@
     "xo": "^0.18.1"
   },
   "dependencies": {
-    "@kuu/parallel-fetch": "0.0.2",
+    "@kuu/parallel-fetch": "https://github.com/kuu/parallel-fetch.git",
     "debug": "^2.6.3",
     "hls-parser": "^0.1.4"
   }
